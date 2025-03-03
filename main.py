@@ -1,3 +1,8 @@
+# Anytime adding new code, commit it to the local repository using the following:
+# git add .
+# git commit -m "Update message"
+# git push origin main
+
 from movie_manager import add_movie, update_tickets, book_ticket, list_movies
 
 
